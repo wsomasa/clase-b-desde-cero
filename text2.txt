@@ -3,3 +3,6 @@ Otra línea.
 tercera línea.
 cuarta línea.
 quinta línea.
+
+Contribuidores 
+Walter Somasa
